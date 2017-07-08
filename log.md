@@ -204,3 +204,11 @@ We also learned of a new tool! CSSmatic, which is great for helping generate som
 **Links**
 
 1. [CSSmatic](http://www.cssmatic.com/)
+
+### Day 17: July 7, 2017, Thursday
+
+**Today's Progress**:
+
+Today's start is at 19:24.  Worked on practicing my .map() and .filter() yet again.  Still trying to hammer those down, and I'm not sure why they've given me so much trouble.  Even when I understand how they work I still manage to mangle them.
+
+Finished up to exercise [381] of the freeCodeCamp beta.  Total of 4.25 hours streamed today.  I WILL finish the Basic Algorithm Scripting challenges tomorrow, but in the meantime I'm going to get a full night of rest and be fresh for tomorrow to crush the challenges!
