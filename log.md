@@ -205,10 +205,46 @@ We also learned of a new tool! CSSmatic, which is great for helping generate som
 
 1. [CSSmatic](http://www.cssmatic.com/)
 
-### Day 17: July 7, 2017, Thursday
+### Day 17: July 7, 2017, Friday
 
 **Today's Progress**:
 
 Today's start is at 19:24.  Worked on practicing my .map() and .filter() yet again.  Still trying to hammer those down, and I'm not sure why they've given me so much trouble.  Even when I understand how they work I still manage to mangle them.
 
 Finished up to exercise [381] of the freeCodeCamp beta.  Total of 4.25 hours streamed today.  I WILL finish the Basic Algorithm Scripting challenges tomorrow, but in the meantime I'm going to get a full night of rest and be fresh for tomorrow to crush the challenges!
+
+### Day 18: July 8, 2017, Saturday
+
+**Today's Progress**:
+
+Today's start is at 07:00.  I've purchased "The Complete JavaScript Course" by Jonas Schmedtmann from Udemy and I'm going to walk through it a bit before I start streaming.  Spent a bit of time doing the course before starting the stream at 09:00.  Need to spend less time streaming and more time understanding the content of what I've already learned.  filtering, mapping, reducing, and just generally reading the content on MDN I can't put into practice when this is the time I need to be doing it.
+
+Used the "Logical NOT(!)" operator today a couple of times to solve some challenges, but it was more googling/assistance of others.  This should be a tool in my toolbox, and it will be going forward, but I need to do more studying so I know when to reach for it.
+
+Getting better at not screwing up my filtering process, but after writing it out, I'm struggling with the "what's actually being returned" portion.  Work in progress.  We'll get better!
+
+Returned back to the core version of freeCodeCamp.  Took on the beta to learn more JavaScript, but it didn't really assist in that capacity, in fact it probably took away more than anything.  I did learn a ton about HTML/CSS/accessibility/Flexbox, etc...but the whole reason I took on the beta was to work on my JS, which seems to be the thing that's coming slowest to me.  I have a few resources for studying, including the course from Jonas Schmedtmann.  Eloquent JavaScript - Second Edition, funfunfunction youtube series, and The Net Ninja's videos as well.  Need to go over that content, make notes, and then do some challenges that use what I've learned.
+
+Total time streamed today 12:00 hours, but 2 hours previous to that studying, so a total of 14 hours today!  Went from [381] to [385] of the freeCodeCamp beta exercises.  Went from [269] to [278] of the freeCodeCamp core exercises.
+
+**Links**
+
+1. [The Complete JavaScript Course by Jonas Schmedtmann](https://www.udemy.com/the-complete-javascript-course/) use coupon code ""
+2. [Eloquent JavaScript - Second Edition](http://eloquentjavascript.net/)
+3. [funfunfunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+4. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
+### Day 19: July 9, 2017, Sunday
+
+**Today's Progress**:
+
+05:00 wakeup today.  Chores + bit of Diablo to relax a bit, and then got started at 07:30 in terms of programming.  Need to spend the day doing review and less code.  Going to consume the content from funfunfunction today!
+
+Day was broken up with other obligations.  Managed to get in around 5 hours of studying before streaming.  Started streaming at
+21:10.  Plan on putting in 3 hours before I'm off to bed!
+
+Managed to get 2 hours and 40 minutes in streaming, completed up to [281] of the core freeCodeCamp exercises.  My code for "Spinal Tap Case" is awful, but it works!  Rather pleased because I actually tried to use some odd regular expressions and it worked.  Also completed the "Convert HTML Entities" and I have a rule that after I find a solution that passes the tests at freeCodeCamp I can look at their answers under "hints".  Looked up the "Convert HTML Entities" and mine was actually in line with the "advanced" answer.  Was quite pleased with that.
+
+Tomorrow I'll be working so I'll be starting somewhere between 19:00 and 20:00 EDT.
+
+Worked today on my mapping, regular expressions, and key value pairs.
