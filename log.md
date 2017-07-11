@@ -248,3 +248,13 @@ Managed to get 2 hours and 40 minutes in streaming, completed up to [281] of the
 Tomorrow I'll be working so I'll be starting somewhere between 19:00 and 20:00 EDT.
 
 Worked today on my mapping, regular expressions, and key value pairs.
+
+### Day 20: July 10, 2017, Monday
+
+**Today's Progress**:
+
+Stream started at 19:42.  Today I'm back in the mine that is "Intermediate Algorithm Challenges".  Farming that knowledge.  Fell down a mine shaft at "Smallest Common Multiples" and now I have to go research math problems I avoided in high school.  Skipped the exercise "for now" as I felt I was getting carried a little too hard by my viewers and I need to invest some time offline to understand the problem more thoroughly.  Continued on and completed the "Drop It" challenge, but decided to call the stream at 00:00.  Managed to complete up to [284] of freeCodeCamp.  Will do some research on "Euclidean algorithm" against my better judgement.  I only have this week in terms of being able to finish the JavaScript challenges.  Next week I plan on dedicating entirely to Node.js in anticipation of the NodeSchool Workshop at Shopify in Toronto on July 22.  Met a lot of new people on stream today, which was great.  Always nice to see new people.  Was handed a great blog about someone in my exact position.
+
+**Links**
+
+1. [LOTZY'S JOURNEY IN BECOMING A SKILLED PROGRAMMER](https://lotzysdevjournal.wordpress.com/)
