@@ -258,3 +258,27 @@ Stream started at 19:42.  Today I'm back in the mine that is "Intermediate Algor
 **Links**
 
 1. [LOTZY'S JOURNEY IN BECOMING A SKILLED PROGRAMMER](https://lotzysdevjournal.wordpress.com/)
+
+### Day 21: July 11, 2017, Tuesday
+
+**Today's Progress**:
+
+Stream started at 18:38 as I got home from work earlier than expected.  Excited to get back to it so may as well just jump right in!  Benefits of having a stream.  1) Friendly people 2) Friendly people that will drag you kicking and screaming to the understanding of how reduce and recursion work together.  Junicus with the big assist today.
+
+Using what I learned in regards to recursion and working on my knowledge of reduce I was able to get through the rest of the "Intermediate Algorithm Challenges".  Yesterday I was introduced to "Euclidean algorithm", and luckily I didn't have to do much more today than implement the code on finding the GCD and LCM into a reduce!  I completed up to [289] of freeCodeCamp.  Today was the 1000th day of freeCodeCamp being live, and I noticed that on the page they list the following:
+
+Established: 1,000days ago
+More than 6,000 campers have gotten their first developer jobs.
+More than 8,000 experienced developers have gotten even better developer jobs.
+
+Certificates:
+Front End: 5,870 earned
+Data Viz: 782 earned
+Back End: 510 earned
+All three: 325 earned
+
+I set my personal goal to be "326" of finishing all three.  Enjoying what I'm learning so far, logging a lot of hours and I'm really looking forward to not doing logic puzzles and getting back to building things.  I wish there was a bit of a break between the "Intermediate Algorithm Challenges" and the Advanced, but alas I need to continue on before I go onto the "Advanced Front End Development Projects".  Completed today with a total of 4 hours 45 minutes of streaming.  Looking forward to tomorrow and powering through the "Advanced Algorithm Challenges"!
+
+**Notes**
+
+Need to spend more time working on recursion.  I get it but I don't get it.
