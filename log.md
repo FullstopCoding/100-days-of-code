@@ -277,8 +277,20 @@ Data Viz: 782 earned
 Back End: 510 earned
 All three: 325 earned
 
-I set my personal goal to be "326" of finishing all three.  Enjoying what I'm learning so far, logging a lot of hours and I'm really looking forward to not doing logic puzzles and getting back to building things.  I wish there was a bit of a break between the "Intermediate Algorithm Challenges" and the Advanced, but alas I need to continue on before I go onto the "Advanced Front End Development Projects".  Completed today with a total of 4 hours 45 minutes of streaming.  Looking forward to tomorrow and powering through the "Advanced Algorithm Challenges"!
+I set my personal goal to be "326" of finishing all three.  Enjoying what I'm learning so far, logging a lot of hours and I'm really looking forward to not doing logic puzzles and getting back to building things.  I wish there was a bit of a break between the "Intermediate Algorithm Challenges" and the Advanced, but alas I need to continue on before I go onto the "Advanced Front End Development Projects".  Completed today with a total of 4 hours 45 minutes of streaming.  Looking forward to tomorrow and powering through the "Advanced Algorithm Challenges"!  Completed up to freeCodeCamp exercise [289].
 
 **Notes**
 
 Need to spend more time working on recursion.  I get it but I don't get it.
+
+### Day 22: July 12, 2017, Wednesday
+
+**Today's Progress**:
+
+Stream started at 20:57.  Late start but I had some things to take care of after work as well as getting out of work late, but we're back at it again.  Mining that knowledge.  Worked on the "Validate US Telephone Numbers" for a bit before deciding that tonight wasn't the night for regular expressions.  I then updated my versions of node/npm, went on over to the freeCodeCamp beta, and tried to do some of the "APIs and Microservices" challenges, but ran into some technical issues with the "Glitch" website.  Still beta, so I can't complain too much...reasonably though I was just setting up the initial JSON file to define the dependencies and setting up the author/description/etc.
+
+We didn't learn a lot of new things, but I got to practice my Github commands a bit more, so that was a win.  I learned how to clone a repo, then delete the git folder/files from my computer to then push up to my remote as a new master :)
+
+Today will be a better day in terms of learning.  I need to setup a clear path for my next round of learning.  My choices are finish off the "Advanced Algorithm Challenges" and then move onto the advanced projects, or prep for NodeSchool next week (July 22).  I don't want to go there with no knowledge and just spend 3 hours "learning" how to do the basic things that I can learn at home.  I'd rather leverage the opportunity to network a little and learn some new things!
+
+Also forgot to update the freeCodeCamp progress for yesterday that I had completed up to [289].  No FCC progress today unfortunately!
