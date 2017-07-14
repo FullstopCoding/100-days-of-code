@@ -294,3 +294,15 @@ We didn't learn a lot of new things, but I got to practice my Github commands a 
 Today will be a better day in terms of learning.  I need to setup a clear path for my next round of learning.  My choices are finish off the "Advanced Algorithm Challenges" and then move onto the advanced projects, or prep for NodeSchool next week (July 22).  I don't want to go there with no knowledge and just spend 3 hours "learning" how to do the basic things that I can learn at home.  I'd rather leverage the opportunity to network a little and learn some new things!
 
 Also forgot to update the freeCodeCamp progress for yesterday that I had completed up to [289].  No FCC progress today unfortunately!
+
+### Day 23: July 13, 2017, Thursday
+
+**Today's Progress**:
+
+Today's start is at 20:42.  Late start second day in a row, but I have some direction on what I want to do.  I'm starting with some of the backend courses at freeCodeCamp and I'll be working on using node with c9.io as well as the NodeSchool exercises.  Finished the first 3 exercises of the "learnyounode" course.  It was a bit of a slog because using a new environment and understanding how items are brought in as inputs, outputs, etc.  One of my chat members, 85filter, managed to pass along another great resource with a ton of items on different items for learning to be a developer.  The funny part is, some of the items I really like for things I've learned that I like to pass off as one of my own great resources are already on this list, and they're at the top of the list, so it's very promising!
+
+Update on my first meeting with my mentor.  Didn't go as well or maybe it went better than it should have.  The person I was setup under told me that I had already surpassed them in terms of their knowledge, so I have to reach out to some other teams to see if I can find a mentorship that fits.
+
+**Links**
+
+1. [Become A Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
