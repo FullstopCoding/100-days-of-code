@@ -306,3 +306,13 @@ Update on my first meeting with my mentor.  Didn't go as well or maybe it went b
 **Links**
 
 1. [Become A Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+
+### Day 24: July 14, 2017, Friday
+
+**Today's Progress**:
+
+Late start today at 22:30.  Full intentions of starting earlier, but when I got home today I was greeted by a yellow lab puppy.  I spent a few hours bonding with him before I headed downstairs to get my nerd workout in.  Great news, my email to Mr. Wes Bos was "finally" replied to.  I have permission to play his videos on stream!  If only I didn't email him the day he went on vacation :)
+
+I also got another lead on working with a developer at work, and maybe a potential opportunity to go work with the IoT team on some of their projects.  We'll see...the team needs a bit of a budget and more projects, but it's a good lead!
+
+Managed to get through most of the "how-to-npm" course before I had to go and attend to Scout again.  Managed to stream for 1.5 hours, but took in quite a bit of npm.
