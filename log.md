@@ -316,3 +316,11 @@ Late start today at 22:30.  Full intentions of starting earlier, but when I got 
 I also got another lead on working with a developer at work, and maybe a potential opportunity to go work with the IoT team on some of their projects.  We'll see...the team needs a bit of a budget and more projects, but it's a good lead!
 
 Managed to get through most of the "how-to-npm" course before I had to go and attend to Scout again.  Managed to stream for 1.5 hours, but took in quite a bit of npm.
+
+### Day 25: July 15, 2017, Saturday
+
+**Today's Progress**:
+
+Very late start, but busy in the personal life and 23:00 start is better than no start at all!
+
+Managed to code until 00:22.  Only got in ~1.5 hours of coding/streaming after a long day.  I have some more time tomorrow before I have to head out (12:00) and then I'm arriving home late again.  Node is interesting...it's a lot "tougher" but only because it's all new to me, so I'm going through the trial and error of "does this work?" and "does this pass through to the console?".  So I have to check a lot more where my code is failing, and the new interactions especially with the async calls.
