@@ -324,3 +324,18 @@ Managed to get through most of the "how-to-npm" course before I had to go and at
 Very late start, but busy in the personal life and 23:00 start is better than no start at all!
 
 Managed to code until 00:22.  Only got in ~1.5 hours of coding/streaming after a long day.  I have some more time tomorrow before I have to head out (12:00) and then I'm arriving home late again.  Node is interesting...it's a lot "tougher" but only because it's all new to me, so I'm going through the trial and error of "does this work?" and "does this pass through to the console?".  So I have to check a lot more where my code is failing, and the new interactions especially with the async calls.
+
+
+### Day 26: July 16, 2017, Sunday
+
+**Today's Progress**:
+
+Early start today.  08:30 after waking up at 07:00 and taking care of a few responsibilities.  I'm in the market for a laptop for coding.  I'm stuck between buying a piece of garbage I'll hate and it'll be $400, but it's the practical solution for how much I'll probably use it, and spending far too much on something I may not be using full time.  I ended up coding until 11:30 am.  There was 2 days of funeral activities this weekend, so the lack of coding was a result of this.  I'm going to be attending NodeSchool on Saturday the 22nd, so I'm going to be focusing on doing Node work next week!
+
+### Day 27: July 17, 2017, Monday
+
+**Today's Progress**:
+
+Start today is 20:45.  Starting a little later, but as long as I get in before 21:00 I can get in 3 hours a night, which is my goal!  Today I'll be focusing on Node.js as NodeSchool is coming up on July 22nd, 2017!
+
+Managed to make it to 21:47 before I have to head off...completed Exercise 5 of the "learnyounode" program.  Falling asleep at the keyboard is not a good look for me.  I'll get a full nights rest and maybe an early start before work tomorrow!  Potential interview this week as HR contacted me to apply for a new (developer related) position at work after my mentorship "didn't work out".  Turns out I may just be fit for another department in which I can grow.
