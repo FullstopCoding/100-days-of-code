@@ -339,3 +339,14 @@ Early start today.  08:30 after waking up at 07:00 and taking care of a few resp
 Start today is 20:45.  Starting a little later, but as long as I get in before 21:00 I can get in 3 hours a night, which is my goal!  Today I'll be focusing on Node.js as NodeSchool is coming up on July 22nd, 2017!
 
 Managed to make it to 21:47 before I have to head off...completed Exercise 5 of the "learnyounode" program.  Falling asleep at the keyboard is not a good look for me.  I'll get a full nights rest and maybe an early start before work tomorrow!  Potential interview this week as HR contacted me to apply for a new (developer related) position at work after my mentorship "didn't work out".  Turns out I may just be fit for another department in which I can grow.
+
+### Day 28: July 18, 2017, Tuesday
+
+**Today's Progress**:
+
+Completely off the mark, but I found out something pretty awesome.  I was thinking my CSS chops were okay, but then I ran into [this](http://gedd.ski/build/overwatch-hero-picker/).  It made me think that I should just pull out a screenshot and start working on a CSS overlay for some things for practice.  Today I didn't stream, but I worked on The Web Developer Bootcamp Udemy course by Colt Steele.  Can't stream the content without permission, but sometimes I have to decide between streaming and learning!  I put in under 2 hours today, the sleep schedule has been destroyed and in a couple more weeks I'm back on vacation so I'll be able to put in some crazy hours learning again.  Looking forward to that time.
+
+**Links**
+
+1. [Overwatch Hero Picker - CSS ](http://gedd.ski/build/overwatch-hero-picker/)
+2. [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
