@@ -350,3 +350,15 @@ Completely off the mark, but I found out something pretty awesome.  I was thinki
 
 1. [Overwatch Hero Picker - CSS ](http://gedd.ski/build/overwatch-hero-picker/)
 2. [The Web Developer Bootcamp by Colt Steele](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
+
+### Day 29: July 19, 2017, Wednesday
+
+**Today's Progress**:
+
+Going to be working on the Node videos offered by The Net Ninja.  I won't be streaming today as I don't want to restream something I don't have access to but I need to get a little more Node under my belt before I go to Toronto on Saturday!  Today's start was at 21:00.  Hoping I got enough rest for a full 3 hours tonight!  Drinking coffee at this hour isn't bad, is it?
+
+Ended at around 23:00 studying.  Stayed up until 02:00.  Coffee was a bad idea.  Writing this on the 20th.
+
+**Links**
+
+1. [The Net Ninja - Node.js Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
