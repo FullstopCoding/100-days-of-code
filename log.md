@@ -381,8 +381,17 @@ Did my interview today for the position.  It was more of a prescreening, but the
 
 Went to NodeSchool in Toronto.  Left around 11am and arrived just in time for 1pm.  It was really interesting, but I'm not sure if it was worth the drive.  I got some answers to some questions I had, the instructors were great and I was able to speak with some others in terms of work, what they're doing, etc.  That was probably the best part.  3 hours of driving for 3 hours of coding seemed counter productive, but it was certainly stepping outside my comfort zone.  I got help in terms of modules within Node which I was struggling to understand how my one program reacted outside the current one, and the scope of what was available.  Still a little confusing when it comes to things like, callback functions.  I have to do more reading to better understand what I pass into a function and how to write a callback function.  Overall progress was made, which is what is most important.
 
-### Day 33: July 22, 2017, Sunday
+### Day 33: July 23, 2017, Sunday
 
 **Today's Progress**:
 
 Took the day off.  No progress made today.
+
+
+### Day 34: July 24, 2017, Monday
+
+**Today's Progress**:
+
+Good news is I have a second interview on Wednesday for the developer position at my work.  I need to spend my time preparing for it, so the focus over the next two days is going to be on it.  It may not be coding exactly, or related to the challenge, but if I'm successful this will give me some strong momentum forward to my final goal of being a full stack developer.
+
+The position is specifically related to working on our knowledge base at work, which I think will be a great fit.
