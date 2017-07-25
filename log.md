@@ -362,3 +362,27 @@ Ended at around 23:00 studying.  Stayed up until 02:00.  Coffee was a bad idea. 
 **Links**
 
 1. [The Net Ninja - Node.js Series](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+
+### Day 30: July 20, 2017, Thursday
+
+**Today's Progress**:
+
+Short night tonight.  I have an interview tomorrow for a developer position at work.  Need to study up on that, so it'll be offline and very job specific.  Role is for a "System Specialist" role at work using most of my work skills plus a little JavaScript.
+
+### Day 31: July 21, 2017, Friday
+
+**Today's Progress**:
+
+Did my interview today for the position.  It was more of a prescreening, but there were some questions that were like "describe something you've automated" and questions about reporting/SQL/Oracle stuff, which I had used in the past when creating reports in my old operations role.  NodeSchool tomorrow so I'll be focusing on that.
+
+### Day 32: July 22, 2017, Saturday
+
+**Today's Progress**:
+
+Went to NodeSchool in Toronto.  Left around 11am and arrived just in time for 1pm.  It was really interesting, but I'm not sure if it was worth the drive.  I got some answers to some questions I had, the instructors were great and I was able to speak with some others in terms of work, what they're doing, etc.  That was probably the best part.  3 hours of driving for 3 hours of coding seemed counter productive, but it was certainly stepping outside my comfort zone.  I got help in terms of modules within Node which I was struggling to understand how my one program reacted outside the current one, and the scope of what was available.  Still a little confusing when it comes to things like, callback functions.  I have to do more reading to better understand what I pass into a function and how to write a callback function.  Overall progress was made, which is what is most important.
+
+### Day 33: July 22, 2017, Sunday
+
+**Today's Progress**:
+
+Took the day off.  No progress made today.
