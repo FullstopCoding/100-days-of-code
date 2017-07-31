@@ -395,3 +395,43 @@ Took the day off.  No progress made today.
 Good news is I have a second interview on Wednesday for the developer position at my work.  I need to spend my time preparing for it, so the focus over the next two days is going to be on it.  It may not be coding exactly, or related to the challenge, but if I'm successful this will give me some strong momentum forward to my final goal of being a full stack developer.
 
 The position is specifically related to working on our knowledge base at work, which I think will be a great fit.
+
+### Day 35: July 25, 2017, Tuesday
+
+**Today's Progress**:
+
+Spending today prepping for the interview I have tomorrow.  Coding and not coding related.  Not much of an update.
+
+### Day 36: July 26, 2017, Wednesday
+
+**Today's Progress**:
+
+Interview went quite well I think.  There were three people in the room.  One person from the team, another from IT, and the hiring manager.  I asked a couple of questions at the end that the hiring manager answered really well.  It was specifically in regards to employee growth under her.  She wore the promotions of her employees as a badge, which I think is the mark of a good leader.  Outside of our own performance review for our entire company she also has something a little extra she works on, on the side.  Also because it's under a different part of our organization, taking the position would mean I get the $1,500/year educational benefit back, which is a big deal to me.
+
+### Day 37: July 27, 2017, Thursday
+
+**Today's Progress**:
+
+Was approached today at work by a member of the "Big Data" team.  They're looking for someone to do their UI for some reporting.  This falls in line with some other stuff I'd like to learn.  This position is unfortunately a contract position, but I'd love to take a look at it if things fall through with the other position.  I'd prefer to work with our knowledge base team, but any time spent coding for a job is an improvement on my current position.  Need to change my resume around and send it over for this position as it's more along the lines of visual design, although they're looking for someone with React experience and some other things.  Lately "coding" has been more along the lines of trying to secure a full time job rather than writing code.  Looking forward to getting back to my regular studying.
+
+### Day 38: July 28, 2017, Friday
+
+**Today's Progress**:
+
+I took a vacation day today to work on my wife's car.  Less than ideal and the rest of my time is spent with our puppy.  In between I'm going to be doing more Node.js stuff.  I enjoyed that and look wonder how this actually fits into the rest of the stuff I'm doing.  I get it, but I don't see how I'll be using Node effectively yet.
+
+### Day 39: July 29, 2017, Satuday
+
+**Today's Progress**:
+
+Another day of no stream.  I am trying to get some sponsored content in terms of what I'm allowed to stream on Twitch, but in the meantime the focus is learning moreso than streaming.
+
+I'll try to get back to a regular schedule soon.  Next week the wife and dog are gone until Sunday to the cottage so I'll have more time to stream/study.
+
+Been spending a lot of time lately learning Node, but I am thinking of switching back to project learning as it has been best for my development.  Mostly using The Net Ninja's YouTube series as well as well as NodeSchool's workshoppers.
+
+### Day 40: July 30, 2017, Sunday
+
+**Today's Progress**:
+
+Spending today working on my resume to apply for the internal posting tomorrow for the UI/UX designer at work.  We'll see how that goes, this is a bit of throwing stuff against a wall however.  No word back on the interview from last week yet!
